@@ -1,6 +1,9 @@
 brofist-phantomjs
 =================
 
+[![experimental](http://hughsk.github.io/stability-badges/dist/experimental.svg)](http://github.com/hughsk/stability-badges)
+![Dependencies Status](https://david-dm.org/brofistjs/brofist-phantomjs.png)
+
 A PhantomJS runner for Brofist tests.
 
 
